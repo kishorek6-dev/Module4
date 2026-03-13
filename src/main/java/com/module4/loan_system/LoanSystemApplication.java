@@ -10,6 +10,7 @@ public class LoanSystemApplication {
 		SpringApplication.run(LoanSystemApplication.class, args);
         System.out.println("Hello world");
         System.out.println("Bye world");
+        System.out.println("Hiii");
 	}
 
 }
